@@ -14,8 +14,8 @@ The project instructions given were as follows;
 
 This is interpreted as follows;
 
-*For each of 30 subjects, the mean of each selected variable is calculated
-*For each of 6 activities, the mean of each selected variable is calculated
+* For each of 30 subjects, the mean of each selected variable is calculated
+* For each of 6 activities, the mean of each selected variable is calculated
 
 The code first imports the subject, activity and variable labels and tidies activity labels.  Variable labels are not tidied
 because their naming convention clearly identifies each variable as described in "features.txt".
