@@ -18,7 +18,7 @@ This is interpreted as follows;
 * For each of 6 activities, the mean of each selected variable is calculated
 
 The code first imports the subject, activity and variable labels and tidies activity labels.  Variable labels are not tidied
-because their naming convention clearly identifies each variable as described in "features.txt".
+to preserve their naming convention which is described in "features.txt".
 
 The data is imported and combined into a single file named "combineddata".
 
